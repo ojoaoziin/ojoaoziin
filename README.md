@@ -1,7 +1,7 @@
 ## 👋 Oi! Eu sou o João Carlos
 
 Tenho **22 anos** e estou iniciando minha jornada no mercado e nos estudos em **desenvolvimento de software**.  
-💻 Atualmente pratico linguagens como **JavaScript, HTML, CSS, Python, Java e Docker**, explorando também ferramentas como **n8n, DBeaver e Git**.  
+💻 Atualmente pratico linguagens como **php,JavaScript, HTML, CSS, Python, Java e Docker**, explorando também ferramentas como **n8n, DBeaver e Git**.  
 🤖 Tenho grande curiosidade e motivação para aprender cada vez mais, principalmente sobre **Inteligência Artificial** e como aplicá-la em projetos reais.  
 🚀 Sempre em busca de evolução, novos desafios e oportunidades para crescer na área de tecnologia.  
 
